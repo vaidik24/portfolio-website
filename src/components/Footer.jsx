@@ -43,7 +43,7 @@ const Footer = () => {
           <FontAwesomeIcon icon={faFileAlt} className="text-white" />
           <span>Resume</span>
         </a> */}
-        <motion.div className="relative flex">
+        {/* <motion.div className="relative flex">
           <button
             className="flex flex-row justify-center items-center gap-x-2 bg-[#28282a97] px-5 py-2 sm:w-[150px] w-[130px]  border-[#343437] border-[1px] rounded-md text-white focus:outline-[2px] focus:outline-[#27272A] focus:outline focus:outline-offset-[3px] hover:bg-[#27272A] hover:border-[#39393c] transition duration-300 ease-in-out"
             onClick={toggleMenu}
@@ -90,7 +90,7 @@ const Footer = () => {
               </button>
             </motion.div>
           )}
-        </motion.div>
+        </motion.div> */}
       </div>
       <div className="text-center text-[#915EFF] text-5xl  font-bold">
         Vaidik Pandya
