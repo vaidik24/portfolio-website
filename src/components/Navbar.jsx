@@ -43,7 +43,7 @@ const Navbar = () => {
           }}
         >
           <img
-            src="/public/finalLogo.png"
+            src="../../finalLogo.png"
             alt="logo"
             className="w-9 h-9 object-contain rounded-full"
           />
