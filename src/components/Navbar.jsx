@@ -1,6 +1,6 @@
-import React, { useEffect, useState } from "react";
+import { useEffect, useState } from "react";
 import { Link } from "react-router-dom";
-
+import { finalLogo } from "../assets";
 import { styles } from "../styles";
 import { navLinks } from "../constants";
 import { menu, close } from "../assets";
@@ -43,7 +43,7 @@ const Navbar = () => {
           }}
         >
           <img
-            src="../../finalLogo.png"
+            src={finalLogo}
             alt="logo"
             className="w-9 h-9 object-contain rounded-full"
           />

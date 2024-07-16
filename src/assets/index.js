@@ -7,6 +7,7 @@ import spring from "./Springboot.png";
 import BB from "./BB.png";
 import github from "./github.png";
 import menu from "./menu.svg";
+import finalLogo from "./finalLogo.png";
 import close from "./close.svg";
 import java from "./java.svg";
 import css from "./tech/css.png";
@@ -67,5 +68,6 @@ export {
   tripguide,
   temple,
   spot,
+  finalLogo,
   os,
 };
