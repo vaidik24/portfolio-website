@@ -56,50 +56,62 @@ const technologies = [
   {
     name: "HTML 5",
     icon: html,
+    color: "#E44D26", // HTML color
   },
   {
     name: "CSS 3",
     icon: css,
+    color: "#264DE4", // CSS color
   },
   {
     name: "JavaScript",
     icon: javascript,
+    color: "#F0DB4F", // JavaScript color
   },
   {
     name: "Java",
     icon: java,
+    color: "#5382A1", // Java color
   },
   {
     name: "Springboot",
     icon: spring,
+    color: "#6DB33F", // Springboot color
   },
   {
     name: "React JS",
     icon: reactjs,
+    color: "#61DAFB", // React color
   },
   {
     name: "Redux Toolkit",
     icon: redux,
+    color: "#764ABC", // Redux color
   },
   {
     name: "Tailwind CSS",
     icon: tailwind,
+    color: "#38B2AC", // Tailwind color
   },
   {
     name: "Node JS",
     icon: nodejs,
+    color: "#68A063", // Node.js color
   },
   {
     name: "MongoDB",
     icon: mongodb,
+    color: "#47A248", // MongoDB color
   },
   {
     name: "git",
     icon: git,
+    color: "#F05032", // Git color
   },
   {
     name: "Github",
     icon: github,
+    color: "#FFF", // GitHub color
   },
 ];
 
@@ -119,7 +131,7 @@ const experiences = [
 
 const projects = [
   {
-    name: "OS-Virtual_Lab",
+    name: "OS-Virtual-Lab",
     description:
       "Created a website showcasing operating system algorithms like Round Robin etc. Built a user-friendly interface , increasing user engagement by 40%.",
     tags: [
